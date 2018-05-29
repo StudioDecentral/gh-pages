@@ -17,8 +17,8 @@ title: Studio Decentral Blog
 email: theblockchainers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Content Driven By Community, Driving Community
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "gh-pages/" # the subpath of your site, e.g. /blog
+url: "https://studiodecentral.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: studiodecentral
 facebook_username: studiodecentral
 
